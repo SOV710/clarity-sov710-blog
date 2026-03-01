@@ -15,6 +15,12 @@ link: https://github.com/L33Z22L11/blog-v3
 :::
 ::
 
+::alert{type="warning" title="注意"}
+本主题由[纸鹿](https://github.com/L33Z22L11)开发, 名为 [Clarity](https://github.com/L33Z22L11/blog-v3), 官方站点是[纸鹿摸鱼处](https://blog.zhilu.site)
+
+[原文点此](https://blog.zhilu.site/theme)
+::
+
 ## 主题特性
 
 ::card-list
@@ -70,7 +76,7 @@ class: gradient-card active
 ---
 banner: https://assets.zhilu.cyou/cover3/blog-using-nuxt.jpg
 title: 博客进化：从 Hexo 到 Nuxt Content
-link: /2024/blog-using-nuxt
+link: https://blog.zhilu.site/2024/blog-using-nuxt
 ---
 ::
 

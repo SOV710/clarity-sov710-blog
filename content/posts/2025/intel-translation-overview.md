@@ -73,4 +73,4 @@ tag: [x86, Intel]
 
 ## 版权声明
 
-目前这份翻译只放在[知乎](https://www.zhihu.com/people/sov710)和我的[个人博客](sov710.github.io)上，遵循 CC BY-NC-SA 4.0 协议。欢迎大家阅读、提意见或者分享，如果要转载到其他地方，请记得注明出处。
+目前这份翻译只放在[知乎](https://www.zhihu.com/people/sov710)和我的[个人博客](https://blog.sov710.com)上，遵循 CC BY-NC-SA 4.0 协议。欢迎大家阅读、提意见或者分享，如果要转载到其他地方，请记得注明出处。
