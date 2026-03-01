@@ -60,7 +60,7 @@ export default defineAppConfig({
 			{
 				icon: "ph:house-bold",
 				text: "个人主页",
-				url: blogConfig.author.homepage,
+				url: "/",
 			},
 			{
 				icon: "ph:github-logo-bold",
