@@ -95,7 +95,7 @@ const blogConfig = {
 			defer: true,
 		},
 		// Twikoo 评论系统
-		{ src: "https://lib.baomitu.com/twikoo/1.6.44/twikoo.min.js", defer: true },
+		{ src: "https://lib.baomitu.com/twikoo/1.7.0/twikoo.min.js", defer: true },
 	],
 
 	/** 自己部署的 Twikoo 服务 */
