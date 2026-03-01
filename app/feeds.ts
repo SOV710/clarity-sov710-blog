@@ -334,7 +334,7 @@ export default [
 				author: "CAICAIIs",
 				sitenick: "彩彩",
 				title: "CAICAIIs",
-				link: "caicaiis.cc",
+				link: "https://caicaiis.cc",
 				icon: "https://caicaiis.cc/favicon.ico",
 				avatar: "https://caicaiis.cc/assets/images/photo.jpg",
 				date: "2026-03-01",
