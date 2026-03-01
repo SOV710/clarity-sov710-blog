@@ -1,11 +1,11 @@
 ---
 title: Linux 迟迟难产的持久化变更日志 API
 description: 持久化变更日志这个 Windows & macOS 实现了许久的功能，在 Linux 上却迟迟难产
-date: 2025-09-16
-updated: 2025-12-6
+date: 2025-09-16 00:00:00
+updated: 2025-12-06 00:00:00
 image: https://pic1.zhimg.com/70/v2-30fa79b1973d7dc85c15eb4afed5a617_1440w.image?source=172ae18b&biz_tag=Post
-category: [OS]
-tag: [Linux, 文件系统, SRCU]
+categories: [操作系统]
+tags: [Linux, 文件系统, SRCU]
 ---
 
 持久化变更日志这个 Windows & macOS 实现了许久的功能，在 Linux 上却迟迟难产。
