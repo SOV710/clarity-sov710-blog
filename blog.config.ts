@@ -34,6 +34,7 @@ const blogConfig = {
 	article: {
 		categories: {
 			[basicConfig.defaultCategory]: { icon: "ph:folder-dotted-bold" },
+			个人: { icon: "ph:note-pencil-bold", color: "#fa7" },
 			工作流: { icon: "ph:graph-bold", color: "#aaa" },
 			哲学: { icon: "ph:asclepius-bold", color: "#a8a" },
 			心理学: { icon: "ph:brain-bold", color: "#f9a" },
