@@ -1,5 +1,6 @@
 ---
 title: 我的梦中情机配置之软件篇——Neovim，启动！
+description: 我的第一代理想软件环境配置
 categories: [工作流]
 tags: [neovim, linux, lsp]
 image: https://picx.zhimg.com/70/v2-b6baff065520b3faca95d27af3bcc0f0_1440w.image?source=172ae18b&biz_tag=Post

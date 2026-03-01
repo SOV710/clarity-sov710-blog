@@ -2,6 +2,7 @@
 title: 梳理系统依赖
 description: 欲装 Gentoo 而不得，欲说还休，在机场梳理 Ubuntu 依赖啾
 date: 2025-09-01 00:00:00
+type: story
 updated: 2025-09-06 01:44:10
 categories: [操作系统]
 tags: [Linux, Ubuntu]
