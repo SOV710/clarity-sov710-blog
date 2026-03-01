@@ -62,8 +62,9 @@ tag: [x86, Intel]
 
 ## 专栏目录
 
-- [第一章 关于本手册](./01-about-this-manual.md)
-- [第七章 中断和异常处理](./07-interrupt-and-exception-handling.md)
+- [第一章 关于本手册](./intel-translation-01-about-this-manual)
+- [第二章 系统架构概览](./intel-translation-02-system-arch-overview)
+- [第七章 中断和异常处理](./intel-translation-07-interrupt-and-exception-handling)
 
 ## 参考资料
 
