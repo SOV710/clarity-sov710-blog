@@ -306,7 +306,7 @@ export default [
 				author: "柳上川",
 				title: "柳上川",
 				desc: "宁可清贫自乐, 不作浊富多忧",
-				link: "https://kawayww.com/images/blog/avatar.avif",
+				link: "https://kawayww.com/images/blog",
 				icon: "https://kawayww.com/images/blog/avatar.avif",
 				avatar: "https://kawayww.com/images/blog/avatar.avif",
 				date: "2026-03-01",
