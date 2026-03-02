@@ -350,6 +350,7 @@ export default [
 				link: "https://caicaiis.cc",
 				icon: "https://caicaiis.cc/favicon.ico",
 				avatar: "https://caicaiis.cc/assets/images/photo.jpg",
+				archs: ["Astro"],
 				date: "2026-03-01",
 				comment: "是群外交大臣",
 			},
